@@ -33,9 +33,9 @@ contract ReportCard{
     function getReportCurrentDetails() public view returns(string,uint,string,uint,uint,uint,uint,string  ){
         return(Name,Rollno,Batch,Sub1,Sub2,Sub3,Sub4,Status);
         }        
-        
-// https://ropsten.etherscan.io/tx/0x66a1f6334a60f5d7e7c158c7b86764b516dba33adf51cbee739b67c571eacdaa
+          
+    }
+    
+ // https://ropsten.etherscan.io/tx/0x66a1f6334a60f5d7e7c158c7b86764b516dba33adf51cbee739b67c571eacdaa
 
 // 0x262B1A67b28b578aA22043C934690f2a7D07c09b  
-        
-    }
